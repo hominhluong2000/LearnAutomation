@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_riseDemo</name>
+   <tag></tag>
+   <elementGuidId>bf83150f-e105-442e-87e6-20f31f49a9b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-content.text-right.demo-password</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='admin@demo.com'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3edc5a9e-a618-42fc-a3af-97c08a51ab7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-content text-right demo-password</value>
+      <webElementGuid>e4b38921-4c39-4bc7-ba2a-161a433c47c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>riseDemo</value>
+      <webElementGuid>42512877-1e53-4829-8a82-d44f63f144d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;form-signin&quot;]/div[@class=&quot;card bg-white mb15&quot;]/div[@class=&quot;card-body p30 rounded-bottom&quot;]/div[@class=&quot;box p10 clickable fill-login b-b&quot;]/div[@class=&quot;box-content text-right demo-password&quot;]</value>
+      <webElementGuid>b1959dbd-fb8f-4c5c-a127-36b7b38772ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin@demo.com'])[1]/following::div[1]</value>
+      <webElementGuid>5ebc90c5-9b44-4e24-8a4e-412f2c8f6d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::div[2]</value>
+      <webElementGuid>8aebc08f-d34a-4bb6-8554-5e50e1934242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Client'])[1]/preceding::div[1]</value>
+      <webElementGuid>691519e5-4878-485a-9a8f-144fada84e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='client@demo.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>5979094a-feaf-4a22-a505-f3db71813cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='riseDemo']/parent::*</value>
+      <webElementGuid>79a81754-3f66-43d6-b1f3-92fe4cfa6f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>2bec425d-86e1-48a8-a93b-dd5d3662da0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'riseDemo' or . = 'riseDemo')]</value>
+      <webElementGuid>1c33c29a-a8f5-4444-9b52-d2556e80a71b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
