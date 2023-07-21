@@ -21,11 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), 'Amin123')
+CustomKeywords.'MyKeywords.loginToOrangeWebsite'()
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'), 'hUKwJTbofgPU9eVlw/CnDQ==')
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
+WebUI.delay(1)
 
 WebUI.closeBrowser()
 
