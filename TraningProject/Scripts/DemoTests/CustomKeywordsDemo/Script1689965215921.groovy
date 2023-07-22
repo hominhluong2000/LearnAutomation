@@ -17,13 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
-
-CustomKeywords.'MyKeywords.loginToOrangeWebsite'()
-
-WebUI.delay(1)
-
-WebUI.closeBrowser()
+'declare 2 cai variable nuk la duoc'
+CustomKeywords.'MyKeywords.loginToOrangeWebsite'('Admin', '\'hUKwJTbofgPU9eVlw/CnDQ==\'')
 

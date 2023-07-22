@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "BD1EB50F2D58C0BB7307F303EDDC8DFA",
+  "keywordFileContentHash": "0B22B85F2711EB53EBF51F6B6D2ED45D",
   "keywordClasses": [
     {
       "name": "MyKeywords",
@@ -10,7 +10,34 @@
         },
         {
           "name": "loginToOrangeWebsite",
-          "parameters": []
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
         },
         {
           "name": "helloUser",
