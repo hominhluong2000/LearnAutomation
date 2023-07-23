@@ -1,12 +1,13 @@
 {
-  "keywordFileContentHash": "0B22B85F2711EB53EBF51F6B6D2ED45D",
+  "keywordFileContentHash": "2272DF1C34E052963843AD1135494930",
   "keywordClasses": [
     {
       "name": "MyKeywords",
       "keywordMethods": [
         {
           "name": "hi",
-          "parameters": []
+          "parameters": [],
+          "javadoc": ""
         },
         {
           "name": "loginToOrangeWebsite",
@@ -37,7 +38,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
         },
         {
           "name": "helloUser",
@@ -55,10 +57,43 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "loginToNopcommerceWebsite",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
