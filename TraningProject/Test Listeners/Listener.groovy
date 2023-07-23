@@ -29,9 +29,9 @@ class Listener {
 	 */
 	@BeforeTestCase
 	def sampleBeforeTestCase(TestCaseContext testCaseContext) {
-		WebUI.openBrowser('')
-		WebUI.maximizeWindow()
-		WebUI.navigateToUrl(GlobalVariable.url)
+//		WebUI.openBrowser('')
+//		WebUI.maximizeWindow()
+//		WebUI.navigateToUrl(GlobalVariable.url)
 	}
 
 	/**
@@ -40,7 +40,7 @@ class Listener {
 	 */
 	@AfterTestCase
 	def sampleAfterTestCase(TestCaseContext testCaseContext) {
-		WebUI.closeBrowser()
+//		WebUI.closeBrowser()
 	}
 
 	/**

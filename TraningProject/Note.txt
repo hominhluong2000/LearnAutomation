@@ -1,0 +1,14 @@
+https://drive.google.com/file/d/1-8cJyLBuWb-tGfv2TyRiYIxDjcsA6SbU/view?pli=1
+1. Có thể sử dụng mode "Headless Browser" ngay nút run trong Katalon
+- Để chạy ngầm mà k cần mở browser  
+- Headless = no UI 
+- Có thể set up cho test suite, chạy different evironment, different browser
+2. Có thể tái sử dụng test case bằng cách sử dụng tính năng call test case
+- Xổ Add xuống -> chọn call all test case
+3. Variable
+- Private/Script variables: tạo biến trong chính test case
+	Ex: def name = 'Luong'
+- Local/Test variables: variable trong test case (created in ta variales)
+- Gloale/Profile variables: dùng pulic cho cả dự án 
+4. Data Driven
+5. Check point
