@@ -23,9 +23,11 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 
 WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), 'Amin123')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
+
+WebUI.takeScreenshot(GlobalVariable.path + '/screenshot1.png')
 
 WebUI.closeBrowser()
 

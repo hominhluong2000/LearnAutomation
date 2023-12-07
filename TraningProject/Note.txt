@@ -12,3 +12,28 @@ https://drive.google.com/file/d/1-8cJyLBuWb-tGfv2TyRiYIxDjcsA6SbU/view?pli=1
 - Gloale/Profile variables: dùng pulic cho cả dự án 
 4. Data Driven
 5. Check point
+6. FailureHandling
+- Để set là test khi faile có chạy tiếp hoặc dừng hoặc by bass warning step fail thôi
+- Có thể set failure cho project -> Setting -> Test design -> Test case
+- Set cho 1 step trong test case: right click on any step -> choose change failure
+7. Handle
+- Handle button: sử dụng verify element clickable
+- Handle checkbox, radio button: sử dụng check, uncheck. Verify element checked, not checked
+- Handle textbox: tạo 1 biến hứng và dùng WebUI.getAttribute. Sau đó dùng verify match để check 2 giá trị giống nhau
+- Handle dropdown list: + Dùng Slect option by label, value, index để chọn giá trị
+						+ Nếu dropdown list không có thẻ select thì dùng click bình thường
+- Handle popup window: Dùng swtich to url, title, index để chuyển đổi các popup màn hình khác nhau
+
+
+
+
+8. Wait
+- Wait For Element Clickable: chờ cái nút nào đó đến khi xuất hiện 
+- Wait For Element Visible: Chờ 1 element nào đó đến khi xuất hiện trên cây DOM và xuất hiện lên UI
+
+9. Bắt xpath locator
+- gặp Xpath khó bắt thì dùng setTimeout: 
+		setTimeout(function() {
+			debugger;
+		}, 3000);
+- 

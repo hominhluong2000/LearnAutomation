@@ -5,27 +5,6 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>5a8e9ef7-2f3c-43af-9257-1c7225f373b7</testCaseGuid>
-   <testDataLinks>
-      <combinationType>ONE</combinationType>
-      <id>62e9f0ee-f9bf-499d-a9c9-1ac2a98027ed</id>
-      <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
-      </iterationEntity>
-      <testDataId>Data Files/LoginData</testDataId>
-   </testDataLinks>
-   <variableLinks>
-      <testDataLinkId>62e9f0ee-f9bf-499d-a9c9-1ac2a98027ed</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>userName</value>
-      <variableId>4a49e4b1-7b50-4111-908d-ac65f8a71402</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId>62e9f0ee-f9bf-499d-a9c9-1ac2a98027ed</testDataLinkId>
-      <type>DATA_COLUMN</type>
-      <value>password</value>
-      <variableId>5d9f054c-d889-4cff-9773-240b10aa1b47</variableId>
-   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_CfakepathKinh dia Mau 17.mp3</name>
+   <tag></tag>
+   <elementGuidId>fa474046-ece0-4136-820a-cf7ca835700b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='uploadedFilePath']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uploadedFilePath</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7024a0a9-c672-4616-8247-58eb77c5378c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uploadedFilePath</value>
+      <webElementGuid>3b9a8897-6927-4426-9073-064e7420b66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>C:\fakepath\Kinh dia Mau 17.mp3</value>
+      <webElementGuid>f30748ba-c9ac-4efd-8c52-300ee9263070</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uploadedFilePath&quot;)</value>
+      <webElementGuid>5b33b70d-e0f2-4a60-8e54-eeab0cbb5e4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='uploadedFilePath']</value>
+      <webElementGuid>59a41bb7-8564-4cbd-93ad-f7eb2fae8379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div[2]/p</value>
+      <webElementGuid>2b56897b-18bd-4512-b86b-d1eb2c2dab7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a file'])[1]/following::p[1]</value>
+      <webElementGuid>7999961f-bb7d-4adb-b650-a3bebdf08d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/following::p[1]</value>
+      <webElementGuid>0dad0777-d62a-4bee-9b19-b5b26cae87a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.'])[1]/preceding::p[1]</value>
+      <webElementGuid>5cc8c60d-6d7e-4be2-8050-2a9840de701e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[1]</value>
+      <webElementGuid>81a2f200-f02d-4bc4-a6cf-39d6b5b9f322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='C:\fakepath\Kinh dia Mau 17.mp3']/parent::*</value>
+      <webElementGuid>b17ae665-e7a3-4df9-9f36-a84e7c9e857a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>cf11105e-ab74-4f7a-bd75-30c83f3b9fac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'uploadedFilePath' and (text() = 'C:\fakepath\Kinh dia Mau 17.mp3' or . = 'C:\fakepath\Kinh dia Mau 17.mp3')]</value>
+      <webElementGuid>29cf28a9-1b81-45fa-9dfa-b233187344bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

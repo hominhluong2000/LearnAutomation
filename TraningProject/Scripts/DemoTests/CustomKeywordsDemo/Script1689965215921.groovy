@@ -17,6 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'declare 2 cai variable nuk la duoc'
 CustomKeywords.'MyKeywords.loginToOrangeWebsite'('Admin', '\'hUKwJTbofgPU9eVlw/CnDQ==\'')
+
+WebUI.acceptAlert()
+
+CustomKeywords.'MyKeywords.loginToOrangeWebsite'('', '')
+
+CucumberKW.comment('')
 

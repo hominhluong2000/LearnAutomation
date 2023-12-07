@@ -24,4 +24,9 @@
       <initValue>'123'</initValue>
       <name>alo</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Working/Test/test/TraningProject/Image'</initValue>
+      <name>path</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

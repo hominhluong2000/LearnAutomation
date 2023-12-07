@@ -19,7 +19,11 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 
-CustomKeywords.'MyKeywords.loginToNopcommerceWebsite'('admin@yourstore.com', 'RAIVpflpDOg=')
+WebUI.openBrowser("")
+
+WebUI.navigateToUrl(GlobalVariable.url)
+
+CustomKeywords.'MyKeywords.loginToNopcommerceWebsite'(GlobalVariable.userName, GlobalVariable.password)
 
 WebUI.click(findTestObject('Page_Your store. Login/Page_Dashboard  nopCommerce administration/p_Content management'))
 

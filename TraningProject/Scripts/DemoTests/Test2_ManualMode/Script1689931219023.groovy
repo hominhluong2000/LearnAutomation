@@ -25,6 +25,8 @@ WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), 'Admin')
 
 WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
 
+WebUI.verifyElementText(findTestObject('Page_OrangeHRM/p_Forgot your password'), 'Forgot your password')
+
 WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
 
 WebUI.delay(2)
